@@ -14,18 +14,24 @@
 ## Step 3: Class Design
 
 ### 3.1 Define classes and relationships
-Translate entities into classes and come up with a list of attributes you want to have in those classes.
+- Draw `UML Class Diagram` to illustrate relationship among classes
+Translate entities into classes and come .
 
-### 3.2 Define Interfaces and core methods
+### 3.2 Define Interfaces(if required), core methods & Attributes/Parameters of each identified class/entity
+1. User Class/Entity
+   - Attributes/Fields/Parameters : id, name, email, reputation, etc
+   - Methods : getName(), getUserId(), getReputation()
 
+### 3.3 Define Central CLass
 
-## Step 4 : Implementation
-Once we have defined the class structure, it’s time to start implementing the full solution.
-
-
-## Design Patterns Used
+## Step 4 : Design Patterns Used
 - Strategy Pattern :
 - Observer Pattern : 
+
+
+## Step 5 : Implementation
+Once we have defined the class structure, it’s time to start implementing the full solution.
+
 
 ## How to run demo
 - Clone this repository
