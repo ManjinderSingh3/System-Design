@@ -1,4 +1,4 @@
-package Easy.a_StackOverflow;
+package Problems.a1_StackOverflow;
 import java.util.UUID;
 
 public class eUser {

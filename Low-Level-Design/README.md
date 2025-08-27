@@ -47,8 +47,6 @@ Behavioral UML Diagrams
 - Sequence Diagram
 - State Machine Diagram
 
-## Steps to Answer LLD Problem
-
 ## 🚀 Steps to Answer LLD (Low-Level Design) Problems
 
 | Step | Description                                    |

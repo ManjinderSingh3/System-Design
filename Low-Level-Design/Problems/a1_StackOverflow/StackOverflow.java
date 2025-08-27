@@ -1,4 +1,4 @@
-package Easy.a_StackOverflow;
+package Problems.a1_StackOverflow;
 
 class StackOverflow{
     public static void main(String[]args){

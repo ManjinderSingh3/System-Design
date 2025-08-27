@@ -1,4 +1,4 @@
-package Easy.b_ParkingLot;
+package Problems.a2_ParkingLot;
 
 public class ParkingLotDemo {
 }
