@@ -3,6 +3,9 @@
 ## Building Blocks of Low Level Design
 
 ### 1. OOP (Object Oriented Programming) Concepts
+- Classes & Objects
+- Enums
+- Interfaces
 - Abstraction
 - Encapsulation
 - Inheritance
