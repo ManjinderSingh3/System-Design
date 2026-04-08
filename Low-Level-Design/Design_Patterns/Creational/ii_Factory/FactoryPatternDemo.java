@@ -1,6 +1,6 @@
 package Design_Patterns.Creational.ii_Factory;
 
-public class FactoryMethodDemo {
+public class FactoryPatternDemo {
     public static void main(String[] args) {
         ShapeFactory shapeFactoryObj = new ShapeFactory();
 

@@ -23,18 +23,18 @@ Principles for Code Quality and Clean Architecture
 
 ### 3. Design Patterns
 
-| Creational Patterns   | Structural Patterns | Behavioral Patterns         |
-|-----------------------|---------------------|-----------------------------|
-| Singleton             | Adapter             | Iterator                    |
-| Factory Method        | Bridge              | Observer                    |
-| Abstract Factory      | Composite           | Strategy                    |
-| Builder               | Decorator           | Command                     |
-| Prototype             | Facade              | State                       |
-|                       | Flyweight           | Template Method             |
-|                       | Proxy               | Visitor                     |
-|                       |                     | Mediator                    |
-|                       |                     | Memento                     |
-|                       |                     | Chain of Responsibility     |
+| Creational Patterns | Structural Patterns | Behavioral Patterns         |
+|---------------------|---------------------|-----------------------------|
+| Singleton           | Adapter             | Iterator                    |
+| Factory Method      | Bridge              | Observer                    |
+| Abstract Factory    | Composite           | Strategy                    |
+| Prototype           | Decorator           | Command                     |
+| Builder             | Facade              | State                       |
+|                     | Flyweight           | Template Method             |
+|                     | Proxy               | Visitor                     |
+|                     |                     | Mediator                    |
+|                     |                     | Memento                     |
+|                     |                     | Chain of Responsibility     |
 
 
 ### 4. UML Diagrams

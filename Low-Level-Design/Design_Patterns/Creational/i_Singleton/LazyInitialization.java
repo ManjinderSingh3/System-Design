@@ -1,22 +1,22 @@
 package Design_Patterns.Creational.i_Singleton;
 
-public class LazySingleton {
+public class LazyInitialization {
     // During initialization dbConnection = null
-    private static LazySingleton dbConnection;
+    private static LazyInitialization dbInstance;
 
-    private LazySingleton(){
+    private LazyInitialization(){
     }
 
-    public static LazySingleton getDbinstance(){
+    public static LazyInitialization getDbInstance(){
         /*
         Problem with Lazy Connection :
         T1 and T2 thread might come at same time and see dbConnection == null,
 
         So, both can enter the if condition and two objects will be created in memory
          */
-        if(dbConnection==null){
-            dbConnection = new LazySingleton();
+        if(dbInstance==null){
+            dbInstance = new LazyInitialization();
         }
-        return dbConnection;
+        return dbInstance;
     }
 }

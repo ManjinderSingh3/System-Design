@@ -1,6 +1,6 @@
-package Design_Patterns.Structural.Observer;
+package Design_Patterns.Structural.Adapter;
 
-public class ObserverMethodDemo {
+public class AdapterDemo {
     public static void main(String[] args) {
         System.out.println("Observer Design pattern Main class");
     }
